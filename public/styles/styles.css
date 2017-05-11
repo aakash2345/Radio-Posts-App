@@ -1,0 +1,32 @@
+body {
+    padding-top: 70px; 
+}
+body.home-page {
+    background: white;
+}
+body.posts-page {
+    background: #FF9900;
+}
+body.radio-page {
+    background: mediumseagreen;
+}
+#searchBar{
+    width: 300px;
+    height: 35px;
+}
+pre {
+    display: block;
+    font-family: monospace;
+    margin: 1em 0;
+    width: 800px;
+}
+#albumdata{
+    width: 400px;
+    height: 350px;
+    margin: 10px;
+    border: 3px solid black;
+    display: inline-block;
+}
+#postImages{
+    padding: 5px;  
+}
